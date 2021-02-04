@@ -17,11 +17,10 @@ The user should be able to:
 - Save, delete and view a collection of songs
 
 
-## Example Extensions
+## Example extensions
 
 - Song tempo slider
-- Enable user to customise colors and keyboard
-- Be able to use the keyboard on screen
+- Enable user to customise colours and keyboard
 - Select different animations and instruments to play
 
 
@@ -35,12 +34,12 @@ $ cd server
 $ npm install
 ```
 
-Seed the database.  Within the server folder:
+Seed the database. Within the server folder:
 ```
 $ npm run seeds
 ```
 
-Run express (leave running in a terminal window).  Within the server folder:
+Run express (leave running in a terminal window). Within the server folder:
 ```
 $ npm run server:dev
 ```
@@ -52,5 +51,5 @@ $ npm start
 
 ## API, Libraries, Resources
 - [Tone.js](https://tonejs.github.io/) - Web Audio framework for creating interactive music in the browser.
-- [anime,js](https://animejs.com/) - Lightweight JavaScript animation library
+- [anime.js](https://animejs.com/) - Lightweight JavaScript animation library
 - [styled-components](https://styled-components.com/)
