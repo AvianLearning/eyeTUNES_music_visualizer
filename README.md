@@ -2,9 +2,9 @@
 
 Art For Everyone.
 
-Our aim is to create an online space that allows inclusive access to the creation of art and music through your computer’s keyboard and/or mouse. 
+A playful app which enables users to create music and animations using their computer keyboard. Keys are mapped to musical notes and animated shapes appear as the user creates sounds.
 
-Users should not require any musical or artistic background in order to get audio or visual feedback while they interact with the app. It should be a playful, exploratory experience
+Users don’t require any musical or artistic background in order to get audio or visual feedback while they interact with the app.
 
 <img width="1005" alt="eyeTunes_logo" src="https://user-images.githubusercontent.com/65955047/103485373-b38ecc00-4ded-11eb-80d1-2c29029e6a2e.png">
 
